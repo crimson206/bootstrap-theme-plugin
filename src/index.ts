@@ -1,0 +1,1 @@
+export { BootstrapThemePlugin } from './BootstrapThemePlugin'
